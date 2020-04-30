@@ -1,5 +1,19 @@
 # NISTRandomNumber-Tests-MATLABcodes
-National Institute of Standards and Technology ( NIST ) developed 15 Tests for checking the Randomness of Random Number Generators. I have developed the Tests in MATLAB. The codes are working under some fixed circumstances with defined Parameters.
+
+### Developed By :
+**Subhadip Ghosh**<br/>
+Electronics and Telecommunication Engineer <br/>
+Kalinga Instituyte of Industrial Technolgy (KIIT), Bhubaneswar<br/>
+Contact me : subhadipghosh857@gmail.com<br/>
+My Portfolio: https://subhadipghosh857.wixsite.com/sghosh-portfolio99<br/>
+Follow me on:<br/>
+GitHUB: https://github.com/SubhadipGhosh1999<br/>
+ResearchGate: https://www.researchgate.net/profile/Subhadip_Ghosh12<br/>
+
+-----------------------------------------------------------------------------------------------------
+
+National Institute of Standards and Technology ( NIST ) developed 15 Tests for checking the Randomness of Random Number Generators.<br/> I have developed the Tests in MATLAB. The codes are working under some fixed circumstances with defined Parameters.
+
 
 A Statistical Test Suite for Random and Pseudorandom Number Generators for Cryptographic Applications
 ------------------------------------------------------------------------------------------------------
@@ -23,10 +37,10 @@ The 15 tests are:
 15. The Random Excursions Variant Test.
 ------------------------------------------------------------------------------------------------------
 
-I HAVE FINISHED TEST NO.: 1,2,3,4,5,6,11,12,13 & 15
+I HAVE FINISHED TEST NO.: 1,2,3,4,5,6,11,12,13 & 15<br/>
 TEST NO. 7,8,9,10 & 14 are under development.
 
 ------------------------------------------------------------------------------------------------------
-The above MATLAB Codes have a Variable named VOLTAGELEVVALS;
-VOLTAGELEVVALS : It is the name of the Imported Random Number Bits 
+The above MATLAB Codes have a Variable named VOLTAGELEVVALS;<br/>
+VOLTAGELEVVALS : It is the name of the Imported Random Number Bits <br/>
 

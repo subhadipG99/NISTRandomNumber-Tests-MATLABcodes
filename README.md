@@ -7,7 +7,6 @@
 Electronics and Telecommunication Engineer <br/>
 Kalinga Instituyte of Industrial Technolgy (KIIT), Bhubaneswar<br/>
 Contact me : subhadipghosh857@gmail.com<br/>
-My Portfolio: https://subhadipghosh857.wixsite.com/sghosh-portfolio99<br/>
 Follow me on:<br/>
 GitHUB: https://github.com/SubhadipGhosh1999<br/>
 ResearchGate: https://www.researchgate.net/profile/Subhadip_Ghosh12<br/>
